@@ -1,2 +1,2 @@
 # Project-Drago
-![Test][Project-Drago/Project Drago Poster.png]
+![Project Drago Poster][Project Drago Poster.png]
